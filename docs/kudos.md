@@ -26,7 +26,7 @@ This means that **kudos are the fundamental unit of exchange of resources on the
     - Do note new users have some of the kudos earned this way held in escrow until you become trusted, which happens automatically after a certain amount of uptime and successful completions. At which point they receive the escrowed kudos and full rewards immediately going forward.
 - **You do not need a powerful GPU to earn Kudos.**
     - Besides gifts and image workers, you can participate in Discord Bounties, rate images, or run text generators and interrogators (for less potent GPUs) to earn Kudos.
- 
+
 ## Priority System
 
 The kudos-based priority system ensures fair access to the AI Horde's resources. When a user submits a request, their position in the job queue is determined by the number of kudos in their account. Users with more kudos will have their jobs processed sooner, while those with fewer kudos may experience longer waiting times.
